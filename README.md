@@ -1,2 +1,5 @@
-# hello-world
-getting started 01092015
+hello-world
+-----------
+
+Nooby construction engineer started a taste for python (babysteps are taking me this far)
+
